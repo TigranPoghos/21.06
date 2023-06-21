@@ -1,0 +1,486 @@
+.container {
+    background-color: rgb(255, 212, 225);
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 93px;
+    width: 1000px;
+    display: flex; 
+}
+
+.n1 {
+    font-size: xx-large;
+    margin-top: 50px;
+    height: 43px;
+    width: 43px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(213, 108, 139);
+}
+
+.apple {
+    margin-top: 50px;
+    font-size: xx-large;
+    height: 43px;
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    color: white;
+    background-color: rgb(148, 8, 50)
+    
+}
+
+.block1 {
+    margin-top: 50px;
+    height: 43px;
+    width: 753px;
+    margin-right: 50px;
+    background-color: rgb(213,108,139);
+}
+
+
+
+.container-2 {
+    background-color: rgb(255, 212, 225);
+    margin-left: 50px;
+    height: 68px;
+    width: 1000px;
+    display: flex; 
+}
+
+.n2 {
+    font-size: xx-large;
+    margin-top: 25px;
+    height: 43px;
+    width: 43px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(213, 108, 139);
+}
+
+.orange {
+    margin-top: 25px;
+    font-size: xx-large;
+    height: 43px;
+    width: 120px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    color: white;
+    background-color: rgb(148, 8, 50)
+    
+}
+
+.block2 {
+    margin-top: 25px;
+    height: 43px;
+    width: 733px;
+    margin-right: 50px;
+    background-color: rgb(213,108,139);
+}
+
+
+
+.container-3 {
+    background-color: rgb(255, 212, 225);
+    margin-left: 50px;
+    height: 68px;
+    width: 1000px;
+    display: flex; 
+}
+
+.n3 {
+    font-size: xx-large;
+    margin-top: 25px;
+    height: 43px;
+    width: 43px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(213, 108, 139);
+}
+
+.Pineapple {
+    margin-top: 25px;
+    font-size: xx-large;
+    height: 43px;
+    width: 140px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    color: white;
+    background-color: rgb(148, 8, 50)
+    
+}
+
+.block3 {
+    margin-top: 25px;
+    height: 43px;
+    width: 713px;
+    margin-right: 50px;
+    background-color: rgb(213,108,139);
+}
+
+
+.container-4 {
+    background-color: rgb(255, 212, 225);
+    margin-left: 50px;
+    height: 68px;
+    width: 1000px;
+    display: flex; 
+}
+
+.n4 {
+    font-size: xx-large;
+    margin-top: 25px;
+    height: 43px;
+    width: 43px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(213, 108, 139);
+}
+
+.Pear {
+    margin-top: 25px;
+    font-size: xx-large;
+    height: 43px;
+    width: 90px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    color: white;
+    background-color: rgb(148, 8, 50)
+    
+}
+
+.block4 {
+    margin-top: 25px;
+    height: 43px;
+    width: 763px;
+    margin-right: 50px;
+    background-color: rgb(213,108,139);
+}
+
+
+
+.container-5 {
+    background-color: rgb(255, 212, 225);
+    margin-left: 50px;
+    height: 118px;
+    width: 1000px;
+    display: flex; 
+}
+
+.n5 {
+    font-size: xx-large;
+    margin-top: 25px;
+    height: 43px;
+    width: 43px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(213, 108, 139);
+}
+
+.Cherry {
+    margin-top: 25px;
+    font-size: xx-large;
+    height: 43px;
+    width: 120px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    color: white;
+    background-color: rgb(148, 8, 50)
+    
+}
+
+.block5 {
+    margin-top: 25px;
+    height: 43px;
+    width: 733px;
+    margin-right: 50px;
+    background-color: rgb(213,108,139);
+}
+
+
+
+
+
+
+
+
+
+.h1 {
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.times {
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.img {
+    height: 25px;
+    width: 25px;
+    margin-top: 12.5px;
+    margin-left: 50px;
+}
+
+.block-1 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(164, 181, 232);
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.text-1 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+
+.block-2 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(189, 192, 201);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-2 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+
+.block-3 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(164, 181, 232);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-3 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-4 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(191, 205, 247);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-4 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-5 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(189, 192, 201);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-5 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-6 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(191, 205, 247);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-6 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-7 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(164, 181, 232);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-7 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-8 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(191, 205, 247);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-8 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-9 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(164, 181, 232);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-9 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-10 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(191, 205, 247);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-10 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-11 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(189, 192, 201);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-11 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+.block-12 {
+    height: 50px;
+    width: 1000px;
+    background-color: rgb(191, 205, 247);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-12 {
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 35px;
+    margin-top: 7.5px;
+}
+
+
+.h1-1 {
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.tag {
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: x-large;
+}
+
+.noun {
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: x-large;
+}
+
+.ol {
+    margin-left: 50px;
+}
+
+.text-ol1 {
+    font-size: larger;
+}
+
+.text-ol2 {
+    font-size: larger;
+    color: rgb(170,170,170);
+}
+
+.text-ol3 {
+    font-size: larger;
+    color: blueviolet;
+}
+
